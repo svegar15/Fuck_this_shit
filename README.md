@@ -6,6 +6,6 @@ public class Shit
   
   String thisShit;
   
-      thisShit = "Fuck";
+      thisShit = "Seriously... Fuck";
        
   }
